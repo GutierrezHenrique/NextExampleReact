@@ -3,8 +3,8 @@ This is Project for Rocketseat in youtube
 
 ## Theme
 
-This project is training in development for nextjs and ReactJS
-The project use typescript and prettier, babel, eslint
+This project is training in development for nextjs and ReactJS.
+The project use typescript and prettier, babel, eslint.
 
 Thanks for Rocketseat
 
@@ -49,5 +49,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ### Hi, Thanks
 
-Thank for using my project, visit my page in gutierrez.dev.br
+Thank for using my project, visit my page in gutierrez.dev.br.
 Bye, See You!
